@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ical.marudot.com//iCal Event Maker
-X-WR-CALNAME:calendarifestius_ca.ics
-NAME:calendarifestius_ca.ics
+X-WR-CALNAME:Festes de Barcelona.ics
+NAME:Festes de Barcelona.ics
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTAMP:20250721T113259Z
