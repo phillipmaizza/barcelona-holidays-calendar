@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holida
 - `-en.ics`: English
 - `-es.ics`: Spanish
 - `-cat.ics`: Catalan
+- `-pt.ics`: Portuguese
 - `-it.ics`: Italian
 - `-fr.ics`: French
 - `-de.ics`: German
@@ -28,13 +29,33 @@ https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holida
 2. On the left, click **Other calendars** → **Add by URL**.
 3. Copy & paste the link of the language you want:
 
+🇬🇧 English
 ```
-English: https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-en.ics
-Spanish: https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-es.ics
-Catalan: https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-cat.ics
-Italian: https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-it.ics
-French: https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-fr.ics
-German: https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-de.ics
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-en.ics
+```
+🇪🇸 Spanish 
+```
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-es.ics
+```
+🏴󠁥󠁳󠁣󠁴󠁿 Catalan
+```
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-cat.ics
+```
+🇵🇹 Portuguese
+```
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-pt.ics
+```
+🇮🇹 Italian
+```
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-it.ics
+```
+🇫🇷 French
+```
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-fr.ics
+```
+🇩🇪 German
+```
+https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-de.ics
 ```
 
 4. Click **Add calendar** → holidays appear automatically 🎉  
