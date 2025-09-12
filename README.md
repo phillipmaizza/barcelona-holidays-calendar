@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main
 ```
 🏴󠁥󠁳󠁣󠁴󠁿 Catalan
 ```
-https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-cat.ics
+https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-ca.ics
 ```
 🇵🇹 Portuguese
 ```
