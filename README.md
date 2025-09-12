@@ -3,23 +3,15 @@
 Need to know when you can finally skip work and enjoy a vermut in the sun?  
 Here’s a simple **iCal (.ics) calendar with all the official public holidays in Barcelona for 2025 and 2026**, straight from the [Ajuntament de Barcelona](https://ajuntament.barcelona.cat/calendarifestius/en/).  
 
-The best part is that you don’t have to download and import anything manually, just add the calendar via URL and it stays updated. Easy, peasy.  
+The best part is that you don’t have to download and import anything manually, just add the calendar via URL and it stays updated. Easy, peasy. 
+Supports English, Spanish, Catalan, Portuguese, Italian, French, and German.
 
 # TL;DR
+
 Add this link to your favorite calendar manager (Google Calendar, Apple Calendar, etc.)
 ```
 https://raw.githubusercontent.com/PhillipMaizza/bcn-holidays-ics/main/bcn-holidays-en.ics
 ```
-
-*You can change the suffix of the file to match your language, you can choose from:*
-- `-en.ics`: English
-- `-es.ics`: Spanish
-- `-cat.ics`: Catalan
-- `-pt.ics`: Portuguese
-- `-it.ics`: Italian
-- `-fr.ics`: French
-- `-de.ics`: German
-
 ---
 
 ## 📥 How to import
