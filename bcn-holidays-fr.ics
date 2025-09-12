@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ical.marudot.com//iCal Event Maker
-X-WR-CALNAME:calendarifestius_fr.ics
-NAME:calendarifestius_fr.ics
+X-WR-CALNAME:Jours fériés à Barcelone.ics
+NAME:Jours fériés à Barcelone.ics
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 DTSTAMP:20250721T131555Z
