@@ -21,68 +21,34 @@ https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main
 2. On the left, click **Other calendars** → **Add by URL**.
 3. Copy & paste the link of the language you want:
 
-<details>
-<summary>🇬🇧 English</summary>
-
+🇬🇧 English
 ```
 https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-en.ics
 ```
-
-</details>
-
-<details>
-<summary>🇪🇸 Spanish</summary>
-
+🇪🇸 Spanish 
 ```
 https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-es.ics
 ```
-
-</details>
-
-<details>
-<summary>🏴 Catalan</summary>
-
+🏴󠁥󠁳󠁣󠁴󠁿 Catalan
 ```
 https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-ca.ics
 ```
-
-</details>
-
-<details>
-<summary>🇮🇹 Italian</summary>
-
-```
-https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-it.ics
-```
-
-</details>
-
-<details>
-<summary>🇫🇷 French</summary>
-
-```
-https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-fr.ics
-```
-
-</details>
-
-<details>
-<summary>🇩🇪 German</summary>
-
-```
-https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-de.ics
-```
-
-</details>
-
-<details>
-<summary>🇵🇹 Portuguese</summary>
-
+🇵🇹 Portuguese
 ```
 https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-pt.ics
 ```
-
-</details>
+🇮🇹 Italian
+```
+https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-it.ics
+```
+🇫🇷 French
+```
+https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-fr.ics
+```
+🇩🇪 German
+```
+https://raw.githubusercontent.com/PhillipMaizza/Barcelona-Holidays-Calendar/main/bcn-holidays-de.ics
+```
 
 4. Click **Add calendar** → holidays appear automatically 🎉  
 
